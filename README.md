@@ -18,16 +18,16 @@
 
 ### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=gnu&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-333333?logo=windows11&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-333333.svg?&logo=visual-studio&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-0d1117?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-0d1117?style=flat&logo=c%2B%2B&logoColor=00599C)
+![Assembly](https://img.shields.io/badge/-Assembly-0d1117?style=flat&logo=gnu&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat&logo=postgresql)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0d1117?style=flat&logo=jupyter)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat&logo=linux)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0d1117?logo=windows11&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0d1117.svg?&logo=visual-studio&logoColor=white)
 
 ---
 
