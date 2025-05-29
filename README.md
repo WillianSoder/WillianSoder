@@ -18,7 +18,7 @@
 
 ### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-171515?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-00000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-171515?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-171515?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Assembly](https://img.shields.io/badge/-Assembly-171515?style=flat&logo=gnu&logoColor=white)
